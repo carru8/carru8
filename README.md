@@ -1,9 +1,9 @@
 
-<div size='20px'> Hola! Soy Naira, bienvenid@s a mi Github 
+<div size='20px'> Hello!
+  I'm Naira, economist in Data Science.
 </div>
 <br>
-  Actualmente, estoy estudiando el máster de Data Science, Big Data y Business Analytics
-  en la Universidad Complutense de Madrid.
+I am currently studying a master's degree in Data Science, Big Data and Business Analytics at the Complutense University of Madrid. 
 
   
  <br>
@@ -15,7 +15,7 @@
 
 
 
-<h2> Estoy también por aquí <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2>  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/naira-carruccio-villada-229a5a1b8/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.github.com/carru8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
