@@ -1,10 +1,9 @@
 
-<div size='20px'> Hola! Soy Naira, bienvenid@s a mi Github :) :smile: 
+<div size='20px'> Hola! Soy Naira, bienvenid@s a mi Github 
 </div>
 <br>
   Actualmente, estoy estudiando el máster de Data Science, Big Data y Business Analytics
-  en la Universidad Complutense de Madrid
-  (Aprendiendo a como dominar los datos :sunglasses:)
+  en la Universidad Complutense de Madrid.
 
   
  <br>
